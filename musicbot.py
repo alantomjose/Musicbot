@@ -1,4 +1,4 @@
-#! pyhton
+#!/usr/bin/env pyhton
 #Musicbot-download music!
 
 import requests, bs4, webbrowser
