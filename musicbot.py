@@ -1,5 +1,5 @@
-#! pyhton3
-#Dmusic-download music
+#! pyhton
+#Musicbot-download music!
 
 import requests, bs4, webbrowser
 from urllib.request import urlopen
